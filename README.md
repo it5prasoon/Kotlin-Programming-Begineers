@@ -1,5 +1,6 @@
 # Kotlin Programming Tutorial for Beginners
-Learn Kotlin from scratch 
+Learn Kotlin from scratch
+
 
 ## Topics to be covered
 0. Overview
